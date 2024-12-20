@@ -28,8 +28,9 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc= "CPH2487-user 13 SKQ1.220905.001 R4T3.1057738-62b8-3b9 release-keys" \
-    DeviceName=$(PRODUCT_SYSTEM_DEVICE) \
-    DeviceProduct=$(PRODUCT_SYSTEM_NAME) \
-    SystemName=CPH2487
+    DeviceName=CPH2487 \
+    DeviceProduct=OP5961L1 \
+    SystemName=CPH2487 \
+    SystemDevice=OP5961L1
 
 BUILD_FINGERPRINT := OnePlus/CPH2487/OP5961L1:13/SKQ1.221119.001/T.R4T3.1057738-62b8-3b9:user/release-keys
