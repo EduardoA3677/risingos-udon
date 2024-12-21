@@ -35,8 +35,8 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc= "CPH2487-user 13 SKQ1.220905.001 R4T3.1057738-62b8-3b9 release-keys" \
-    DeviceName=CPH2487 \
-    DeviceProduct=OP5961L1 \
+    DeviceName=OP5961L1 \
+    DeviceProduct=CPH2487 \
     SystemName=CPH2487 \
     SystemDevice=OP5961L1
 
