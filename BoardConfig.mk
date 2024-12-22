@@ -7,7 +7,7 @@
 # Include the common OEM chipset BoardConfig.
 include device/oneplus/sm8450-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/oneplus/salami
+DEVICE_PATH := device/oneplus/udon
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := OP5913L1,OP5961L1
